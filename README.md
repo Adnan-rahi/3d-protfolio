@@ -1,2 +1,3 @@
-# 3d-protfolio
-This is my personal Portfolio website, the purpose of this website to show my presence, my work, also contact info digitaly, You can easily know about my professional career.
+# Lama Dev Animated 3D Portfolio Website Project
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
